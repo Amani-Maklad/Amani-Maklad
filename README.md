@@ -1,4 +1,5 @@
-<img src="https://9elements.com/blog/content/images/2019/07/learn_code.png" width=100% >
+<body background-color: aliceblue;>
+<img src="https://9elements.com/blog/content/images/2019/07/learn_code.png" >
 <h1 align="center">Hi 👋, I'm Amani</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
@@ -20,3 +21,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amani-maklad&show_icons=true&locale=en&layout=compact" alt="amani-maklad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amani-maklad&" alt="amani-maklad" /></p>
+</body>
