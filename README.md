@@ -1,4 +1,4 @@
-<img src="https://9elements.com/blog/content/images/2019/07/learn_code.png" >
+<img src="https://9elements.com/blog/content/images/2019/07/learn_code.png" width=100>
 <h1 align="center">Hi 👋, I'm Amani</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
